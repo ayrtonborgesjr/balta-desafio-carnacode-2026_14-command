@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EditorTextoUndoRedo.Console/EditorTextoUndoRedo.Console.csproj" />
+  <Project Path="EditorTextoUndoRedo.Tests/EditorTextoUndoRedo.Tests.csproj" />
+</Solution>
